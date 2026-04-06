@@ -32,6 +32,7 @@ The RX waveform shows correct reconstruction of the transmitted UART frame. Afte
 
 # File Structure
 
+```text
 UART_TRANSMITTER_PROJECT/
 ├── docs/
 │   └── UART_block_diagram.jpg
@@ -55,3 +56,4 @@ UART_TRANSMITTER_PROJECT/
 │   ├── rx_tx_tb.sv
 │   └── uart_top_tb.sv
 └── README.md
+```
